@@ -10,7 +10,7 @@ objectives:
 
 # Un Viaggio nel Mondo di Frédéric Bastiat
 
-Questo corso, guidato da Damien Theillier, ti invita ad immergerti nel mondo di Frédéric Bastiat, economista e filosofo francese le cui idee continuano ad influenzare il pensiero economico contemporaneo. Attraverso 21 video, Damien Theillier esplora la vita di Bastiat, le sue influenze intellettuali, i suoi avversari ideologici, così come le sue teorie economiche.
+Questo corso, tenuto da Damien Theillier, ti invita ad immergerti nel mondo di Frédéric Bastiat, economista e filosofo francese le cui idee continuano ad influenzare il pensiero economico contemporaneo. Attraverso 21 video, Damien Theillier esplora la vita di Bastiat, le sue influenze intellettuali, i suoi avversari ideologici, così come le sue teorie economiche.
 
 Il corso inizia con una dettagliata introduzione alla vita e al contesto storico di Bastiat, prima di esaminare i pensatori che hanno segnato il suo pensiero, come Adam Smith, Jean-Baptiste Say, Antoine Destutt de Tracy, Charles Comte, Charles Dunoyer e Richard Cobden. Poi, il corso guarda agli avversari di Bastiat, inclusi Rousseau, l'educazione classica, il protezionismo, il socialismo e Proudhon.
 
